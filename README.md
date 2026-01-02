@@ -1817,8 +1817,7 @@ This portfolio demonstrates readiness for security automation roles requiring Py
 ---
 
 ## 🔗 Navigation
-[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📧 Contact](mailto:m@riegrc.com) | [💼 LinkedIn](https://linkedin.com/in/mariezw)
+
+[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📂 View All Projects](https://github.com/TheCyberLeader/hands-on-cyber-leadership) | [📧 Contact](mailto:m@riegrc.com) | [💼 LinkedIn](https://linkedin.com/in/mariezw)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=TheCyberLeader-python-automation&icon=0&color=0)](https://visitcount.itsvg.in)
